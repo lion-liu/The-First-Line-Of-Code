@@ -1,5 +1,4 @@
-# The-First-Line-Of-Codecxvcxcxvcxcxvcx
+# The-First-Line-Of-Code
 
-zxcxzczx
-的撒垃圾分类看的撒开了房
-见识到了看风景的史莱克
+
+第一行代码,学习Android开发时创建的项目,用于记录学习过程中遇到的问题
